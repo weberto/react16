@@ -1,0 +1,23 @@
+.UserOutput {
+  width: 75%;
+  box-shadow: 3px 3px 10px #aaa;
+  border-radius: 20px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.UserOutput .customer_news {
+  text-align: left;
+  font-style: italic;
+  background-color: #eee;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.UserOutput .subscriber {
+  background: #ffffcc;
+  padding: 5px 25px;
+  border-radius: 5px;
+  margin: 25px;
+  text-transform: capitalize;
+}

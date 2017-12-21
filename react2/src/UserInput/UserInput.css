@@ -1,0 +1,20 @@
+.UserInput {
+  width: 75%;
+  box-shadow: 3px 3px 10px #aaa;
+  border-radius: 20px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.UserInput .subscriber_input {
+  margin-right: 20px;
+}
+
+.UserInput input[type="text"] {
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+
+.UserInput .center {
+  text-align: center;
+}

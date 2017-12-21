@@ -1,0 +1,14 @@
+.PubDate {
+  width: 90%;
+  /**
+  box-shadow: 3px 3px 10px #aaa;
+  */
+  border-radius: 20px;
+  padding: 20px;
+}
+
+
+
+.PubDate .right {
+  text-align: right;
+}
